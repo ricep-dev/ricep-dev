@@ -19,10 +19,16 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricep%20Ardiansyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricep-ardiansyah/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r.ardiansyhh_)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ric.ard29)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ricepardiansyah161)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricep%20Ardiansyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricep-ardiansyah-126a4127b/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-ricep29-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ricep29/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-r.ardiansyhh_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r.ardiansyhh_)
+
+[![TikTok](https://img.shields.io/badge/TikTok-ric.ard29-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ric.ard29)
+
+[![YouTube](https://img.shields.io/badge/YouTube-ricepardiansyah161-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ricepardiansyah161)
+
 [![Email](https://img.shields.io/badge/Email-ricepardiansyah3@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricepardiansyah3@email.com)
 
 ---
@@ -54,21 +60,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricep-dev&show_icons=true&theme=shadow_blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricepaja29&show_icons=true&theme=shadow_blue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricep-dev&layout=compact&theme=shadow_blue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricepaja29&layout=compact&theme=shadow_blue" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ricep-dev&theme=shadow_blue" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ricepaja29&theme=shadow_blue" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ricep-dev&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=ricepaja29&icon=0&color=0" />
 </p>
 
-<!-- Proudly crafted by Ricep Ardiansyah -->
+---
+
+⭐️ From [Ricep Ardiansyah](https://github.com/ricepaja29)
