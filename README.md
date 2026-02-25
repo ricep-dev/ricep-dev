@@ -19,56 +19,54 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricep%20Ardiansyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricep-ardiansyah-126a4127b/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-ricep29-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ricep29/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-r.ardiansyhh_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r.ardiansyhh_)
-
-[![TikTok](https://img.shields.io/badge/TikTok-ric.ard29-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ric.ard29)
-
-[![YouTube](https://img.shields.io/badge/YouTube-ricepardiansyah161-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ricepardiansyah161)
-
-[![Email](https://img.shields.io/badge/Email-ricepardiansyah3@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricepardiansyah3@email.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricep-ardiansyah-126a4127b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ricep%20Ardiansyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/ricep29/">
+    <img src="https://img.shields.io/badge/Facebook-ricep29-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/r.ardiansyhh_">
+    <img src="https://img.shields.io/badge/Instagram-r.ardiansyhh_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@ric.ard29">
+    <img src="https://img.shields.io/badge/TikTok-ric.ard29-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@ricepardiansyah161">
+    <img src="https://img.shields.io/badge/YouTube-ricepardiansyah161-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💻 Core Tech Stack
 
 ### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+React • Next.js • Flutter  
 
 ### ⚙ Backend
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+Golang • Node.js • Flask  
 
 ### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+PostgreSQL • MySQL • Firebase  
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Git • Figma • Power BI  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricepaja29&show_icons=true&theme=shadow_blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricepaja29&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricepaja29&layout=compact&theme=shadow_blue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricepaja29&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ricepaja29&theme=shadow_blue" />
+  <img src="https://streak-stats.demolab.com?user=ricepaja29&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
